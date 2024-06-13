@@ -1,0 +1,36 @@
+express
+
+Descripción: Express es un framework web rápido, minimalista y flexible para Node.js. Se utiliza para construir aplicaciones web y APIs de manera sencilla y eficiente.
+Uso: Facilita la gestión de rutas, la configuración de middleware, la gestión de solicitudes y respuestas HTTP.
+cookie-parser
+
+Descripción: Cookie-parser es un middleware para Express que analiza las cookies adjuntas en las solicitudes del cliente. Permite leer y manipular cookies.
+Uso: Ideal para gestionar cookies en aplicaciones web, como mantener sesiones de usuario.
+cors
+
+Descripción: CORS (Cross-Origin Resource Sharing) es un middleware para Express que habilita CORS con varias opciones. Permite que los recursos de tu servidor sean accesibles desde otros dominios.
+Uso: Utilizado para configurar políticas de acceso a recursos desde diferentes orígenes, crucial para el desarrollo de APIs.
+morgan
+
+Descripción: Morgan es un middleware de registro de solicitudes HTTP para Node.js. Ayuda a registrar detalles de cada solicitud HTTP en el servidor.
+Uso: Útil para el registro de actividades y depuración en aplicaciones web.
+pg
+
+Descripción: pg es un cliente de PostgreSQL para Node.js. Permite interactuar con bases de datos PostgreSQL desde tu aplicación Node.js.
+Uso: Utilizado para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos PostgreSQL.
+zod
+
+Descripción: Zod es una biblioteca de validación de esquemas TypeScript-first. Permite definir esquemas y validar datos en tiempo de ejecución.
+Uso: Útil para la validación de datos entrantes, asegurando que cumplan con los esquemas definidos.
+md5
+
+Descripción: md5 es un paquete que proporciona una implementación del algoritmo de hash MD5. Se utiliza para crear resúmenes de mensajes (hashes).
+Uso: Comúnmente utilizado para encriptar contraseñas o generar identificadores únicos.
+jsonwebtoken
+
+Descripción: Jsonwebtoken es una librería para trabajar con JSON Web Tokens (JWT). Permite crear, firmar, verificar y decodificar tokens JWT.
+Uso: Utilizado para la autenticación y autorización en aplicaciones web.
+express-promise-router
+
+Descripción: Express-promise-router es una extensión de Express Router que permite manejar rutas con funciones que devuelven promesas, simplificando el manejo de rutas asíncronas.
+Uso: Facilita el uso de promesas y async/await en las rutas de Express, mejorando la legibilidad y manejo de errores.
